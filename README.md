@@ -5,7 +5,7 @@
 ```
 $ sudo pacman -S rofi
 ```
-- i3の設定ファイルで、rofiを利用するよう変更する。(dmenu_runの行をコメントアウトし、```bindcode $mod+40 exec "rofi -show"```を追加する)
+- i3のconfigファイルで、rofiを利用するよう変更する。(configのdmenu_runの行をコメントアウトし、```bindcode $mod+40 exec "rofi -show"```を追加する)
 ```
 $ git clone https://www.github.com/naoya0117/dmenu-rofi_config.git ~/.config/rofi
 ```
