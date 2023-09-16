@@ -1,6 +1,6 @@
 # dmenu-rofi_config
-## 使い方
 - dmenuの見た目に極力近づけ、j4-make-configのgreenish themeに合うようにrofiの出力を変更しました。
+## 使い方
 - rofiをインストールする
 ```
 $ sudo pacman -S rofi
