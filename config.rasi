@@ -1,0 +1,11 @@
+configuration {
+ modi: "combi";
+ font: "MyricaM P 13";
+ combi-modi: "run,windowcd";
+ icon-theme: "Adwaita";
+ show-icons: true;
+ format: "";
+ display-combi: "";
+ run-shell-command: "{terminal} -e /usr/bin/zsh -ic \"{cmd} && read\"";
+ }
+@theme "dmenu"
