@@ -14,7 +14,7 @@ $ sudo pacman -S rofi
 $ git clone https://www.github.com/naoya0117/dmenu-rofi_config.git ~/.config/rofi
 ```
 ## Contact
-- Repository: [https://github.com/naoya0117/vim_runtime](https://github.com/naoya0117/vim_runtime)
+- Repository: [https://github.com/naoya0117/vim_runtime](https://github.com/naoya0117/dmenu-rofi_config)
 - GitHub: [https://github.com/naoya0117](https://github.com/naoya0117)
 - Blog: [https://naoya0117.com](https://naoya0117.com)
 
